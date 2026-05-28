@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX Animation"
+  short_description: "Add and validate PowerPoint element animations"
+  default_prompt: "Add click-by-click animations to this PowerPoint deck."
